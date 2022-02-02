@@ -1,5 +1,4 @@
-### Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<h1>I'm Zankhana Patel</h1>
+### <h1>Hi I'm Zankhana Patel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 <h3>Software Developer</h3>
 <h6>Greater Vancouver Metropolitan Area</h6>
 <h4>
