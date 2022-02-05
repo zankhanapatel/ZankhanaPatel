@@ -2,10 +2,7 @@
 <h3>Software Developer</h3>
 <h6>Greater Vancouver Metropolitan Area</h6>
 <h4>
-<a href="https://www.linkedin.com/in/zankhana-patel-developer/">
-  <img align="left" alt="Zankhana's LinkedIN" width="20px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-  linkedin.com/in/zankhana-patel-developer
- </a>
+<a href="https://www.linkedin.com/in/zankhana-patel-developer/"><img align="left" alt="Zankhana's LinkedIN" width="20px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />linkedin.com/in/zankhana-patel-developer</a>
  </h4>
  <br />
 Welcome to my profile! I hold a Master's degree in Computer Applications (Master of Computer Applications (MCA)). I have completed my industrial training as a developer. 
