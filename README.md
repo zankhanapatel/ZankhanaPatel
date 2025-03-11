@@ -1,5 +1,5 @@
 ### <h1>Hi I'm Zankhana Patel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
-<h3>Software Developer</h3>
+<h3>Data Analyst </h3>
 <h6>Greater Toronto Area, Canada</h6>
 <h4>
 <a href="https://www.linkedin.com/in/zankhana-patel-developer/"><img align="left" alt="Zankhana's LinkedIN" width="20px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />linkedin.com/in/zankhana-patel-developer</a>
